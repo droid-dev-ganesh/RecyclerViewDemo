@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="loading_images">loading images</string>
+    <string name="pledge">PLEDGE</string>
+</resources>
